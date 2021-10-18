@@ -1,0 +1,10 @@
+Neoistone is providing services are the
+1. website devlopmet
+2. Android app devlopmet
+3. Hosting
+4. Domain registration
+5. school and hospital management software
+6. UI ux deasing
+7. vps hosting
+website https://www.neoistone.com
+github https://github.com/neoistone
